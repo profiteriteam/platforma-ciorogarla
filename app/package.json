@@ -27,7 +27,7 @@
 		"@supabase/auth-helpers-shared": "^0.4.1",
 		"@supabase/auth-helpers-sveltekit": "^0.10.1",
 		"@supabase/supabase-js": "^2.25.0",
-		"@sveltejs/kit": "^1.27.2",
+		"@sveltejs/kit": "^1.30.4",
 		"@tailwindcss/typography": "^0.5.9",
 		"@types/ua-parser-js": "^0.7.36",
 		"@typescript-eslint/eslint-plugin": "^5.45.0",
